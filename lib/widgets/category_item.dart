@@ -29,8 +29,8 @@ class CategoryItem extends StatelessWidget {
         child: Text(
           title,
           style: TextStyle(
-            fontSize: 26,
-            color: Colors.white,
+            fontSize: 20,
+            color: Colors.black,
             fontWeight: FontWeight.bold,
           ),
         ),
